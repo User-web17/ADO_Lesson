@@ -70,8 +70,6 @@ namespace lesson
             }
         }
 
-        // Account check
-
         private static void SetupDB(SqlConnection connection)
         {
             string query = @"
